@@ -1,3 +1,62 @@
+User Stories
+=================
+
+As a player,
+To start playing,
+I want to play a new frame.
+
+As a player,
+To start my game,
+I want my score to start at 0.
+
+As a player,
+To play a frame,
+I want to have 2 rolls.
+
+As a player, 
+To play a frame,
+I want a maximum score of 10.
+
+As a player,
+If I get a maximum score on my first roll of a frame,
+I want to have a strike!
+
+As a player,
+If I get a maximum score in a frame,
+I want to have a spare!
+
+As a player,
+To play a full game,
+I want to play 10 frames.
+
+As a player, 
+To keep track of my game,
+I want to see my score at the end of each frame.
+
+As a player, 
+If I score a strike, 
+I want to immidiatly go to the next frame.
+
+As a player,
+If I score a strike,
+I want a bonus of my next two rolls (from the following 1 or 2 frames) to be added to my score for the frame where I got the strike.
+
+As a player, 
+If I score a spare,
+I want a bonus of my next roll (from the following frame) to be added to my score for the frame where I got the spare.
+
+As a player,
+If I score a strike on the 10th frame,
+I want to roll for a bonus frame upto twice (upto 30 points).
+
+As a player, 
+If I knock down no pins,
+I want to see a Gutter Game message.
+
+As a player,
+If I get 12 strikes in my game,
+I want to see a perfect Game message.
+
 
 Bowling Challenge
 =================
